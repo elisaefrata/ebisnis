@@ -15,14 +15,14 @@ body {
 /* Header Section */
 header {
   background-image: url('gambar/walpaper_web1.png');
-  background-size: cover; /* Mengisi seluruh area */
-  background-position: center; /* Memusatkan gambar */
+  background-size: 100%;
+  overflow: hidden;
+  background-position: top;
   position: relative;
+  overflow: hidden;
   color: #fbf6f6;
-  height: 90vh; /* Tinggi 100% dari viewport */
+  padding: 120px 0;
   text-align: center;
-  padding: 90px 0; /* Anda bisa menyesuaikan padding ini */
-  overflow: hidden; /* Menghindari scrollbar */
 }
 
 header h1 {
