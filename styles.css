@@ -14,9 +14,14 @@ body {
 
 /* Header Section */
 header {
-  background-image: url('gambar/walpaper_web.jpg');
-  color: #314955;
-  padding: 80px 0;
+  background-image: url('gambar/walpaper_web1.png');
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+  color: #ffffff;
+  padding: 100px 0;
   text-align: center;
 }
 
